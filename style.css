@@ -1,0 +1,18 @@
+.navbar-brand{
+    font-family:'Caveat', cursive;
+}
+
+
+.social-links li{
+    display: inline;
+    color: #fff;
+    justify-content: center;
+    text-align: center;
+    margin-right: 40px;
+}
+
+header nav div ul {
+    display: inline-block;
+    margin-left: 400px;
+    margin-right: 10px;
+}
